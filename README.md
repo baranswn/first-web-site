@@ -1,2 +1,2 @@
 # first-web-site
-making web site just using html and css
+making web site with just using html and css
